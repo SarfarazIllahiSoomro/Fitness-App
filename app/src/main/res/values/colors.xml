@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primarycolor">#FFFFFFFF</color>
+    <color name="secondarycolor">#8587DC</color>
+    <color name="black">#000000</color>
+    <color name="teritorycolor">#ACADFF</color>
+    <color name="complimentingcolor">#1F0E32</color>
+</resources>
